@@ -20,7 +20,7 @@ jobs:
         with:
           server: tuanvahoahh.somee.com
           username: thanhhoa3
-          password: "!3KxU:39JVLr7Lx"
+          password: 123456q@
           local-dir: ./
           server-dir: ./
           dangerous-clean-slate: false
