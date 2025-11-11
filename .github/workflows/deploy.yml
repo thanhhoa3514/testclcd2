@@ -18,7 +18,7 @@ jobs:
       - name: Deploy to Somee via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ftp://tuanvahoahh.somee.com/www.tuanvahoahh.somee.com
+          server: tuanvahoahh.somee.com
           username: thanhhoa3
           password: "!3KxU:39JVLr7Lx"
           local-dir: ./
