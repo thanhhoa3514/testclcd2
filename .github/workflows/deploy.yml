@@ -22,5 +22,5 @@ jobs:
           username: thanhhoa3
           password: 123456q@
           local-dir: ./
-          server-dir: /www.tuanvahoahh.somee.com
+          server-dir: /www.tuanvahoahh.somee.com/
           dangerous-clean-slate: false
